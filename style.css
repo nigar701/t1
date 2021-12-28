@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.d-1{
+ padding: 120px;
+background-image: url("./download2.jpg");
+background-repeat: no-repeat;
+margin-left: 110px;
+background-size: 100%;
+
+}
+.d-1 button{
+    margin: 40px;
+    padding: 10px;
+    background-color: rgb(6, 194, 201);
+  border: solid transparent;
+}
+.d-2{
+  margin: 40px;
+   margin-left: 110px;
+  border: solid rgb(85, 82, 82);
+  padding: 70px;
+  background-color: rgb(226, 225, 225);
+ }
+ .d-2 h5{
+    margin-left: 260px;
+ 
+  }
+  .d-2 h1{
+    margin-left: 390px;
+ 
+  }
+  .d-3 h3{
+    margin-left: 260px;
+ 
+  }
+.d-3{
+    margin: 50px;
+}
+
+ 
+  .d-3 h1{
+    margin-left: 550px;
+ 
+  }
+  .btn1{
+    border-radius: 50px;
+  }
+.a{
+  border-radius: 50px;
+  padding: 20px;
+  background-color: rgb(54, 189, 175);
+  color: #fff;
+}
+.b{
+  border-radius: 50px;
+  padding: 20px;
+  background-color: rgb(54, 189, 175);
+  color: #fff;
+}
+.c{
+  border-radius: 50px;
+  padding: 20px;
+  background-color: rgb(54, 189, 175);
+  color: #fff;
+}
+.img1{
+ width: 290px;
+}
+.d-5{
+  margin: 30px;
+}
